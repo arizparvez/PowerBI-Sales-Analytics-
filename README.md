@@ -1,11 +1,11 @@
 # PowerBI-Sales-Analytics-
-Problem Statement: We have to make a report to show the top & bottom customers of AtliQ Hardware along with the key matrixes, a matrix would be preferred to understand their performance. 
+This report highlights the Top and Bottom Customers of AtliQ Hardware based on key performance metrics. A matrix format is used for clear comparison, helping identify high-value customers for retention and low-performing ones for potential improvement strategies. 
 
-Project description:
-1) Compare customers of AtliQ Hardware in terms of Net Sales, Gross Margin and Gross Margin %
-2) On scatter chart, compare the Gross Margin and Net Sales of different customers where third dimension represent the Gross Margin %
-3) Study the 2 page report on scattered chart that is market and customer 
-4) Compare the market(country) and customer to the different fiscal year that is 2019,20,21 and 2022(actuals+estimated) 
-5) Create a slicer with drop down of individual country, region and customer 
-6) On matrix, create a tree level breakdown of different segment, category and product 
-7) Create a donut chart to see Net Sales, Total Post Invoice Deduction, Pre Invoice Deduction, COGS(Cost of Goods Sold) and Gross Margin
+***AtliQ Hardware Power BI Project: A Step-by-Step Execution Plan:***
+
+- Evaluate customers based on Net Sales, Gross Margin, and Gross Margin % to understand their overall contribution and profitability.
+- Plot a scatter chart comparing Net Sales and Gross Margin, using Gross Margin % as a third dimension through bubble size or color intensity.
+- Design a two-page scatter chart report—one focusing on market-level (country/region) performance and the other on customer-level details.
+- Track performance trends across fiscal years 2019, 2020, 2021, and 2022 (including estimates), comparing both market and customer metrics year by year.
+- Implement interactive dropdown slicers for country, region, and customer to enable dynamic filtering across the report.
+- Construct a matrix with a tree-level hierarchy showing Segment, Category, and Product.
