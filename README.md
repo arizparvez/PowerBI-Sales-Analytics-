@@ -1,6 +1,6 @@
 # PowerBI-Sales-Analytics-
 This report highlights the Top and Bottom Customers of AtliQ Hardware based on key performance metrics. A matrix format is used for clear comparison, helping identify high-value customers for retention and low-performing ones for potential improvement strategies. 
-
+***
 ***AtliQ Hardware Power BI Project: A Step-by-Step Execution Plan:***
 
 - Evaluate customers based on Net Sales, Gross Margin, and Gross Margin % to understand their overall contribution and profitability.
